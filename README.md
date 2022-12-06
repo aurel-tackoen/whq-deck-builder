@@ -2,7 +2,9 @@
 
 - [x] Create the repository
 - [ ] Dungeon Tiles
-  - [ ] Sets
+  - [ ] Add Sets
     - [ ] Cursed City
     - [ ] Hero Quest
     - [ ] Warhammer Quest
+  - [ ] Shuffling
+  - [ ] Drawing
