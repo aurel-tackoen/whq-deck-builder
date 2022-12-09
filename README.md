@@ -12,4 +12,8 @@
     - [ ] Hero Quest
     - [ ] Warhammer Quest
 - [ ] Monsters
+  - [ ] Add Sets
+    - [ ] Age of Sigmar
+    - [ ] Soulbound
 - [ ] Loots
+  - [ ] Generator
