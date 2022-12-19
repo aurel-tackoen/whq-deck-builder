@@ -1,6 +1,6 @@
 [link to video](https://www.youtube.com/watch?v=oY9n9MlPHoo)
 
-##Prompt
+# Prompt
 
 In this thread you will reply as a next generation text based roleplaying Game.
 
