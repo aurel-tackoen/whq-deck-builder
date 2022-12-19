@@ -1,6 +1,7 @@
 # ai-dungeon
 
 - [x] Create the repository
+- [ ] Use chat gpt for ambiance and story
 - [ ] Figma Templates
 - [ ] General Logic
   - [ ] Shuffling
