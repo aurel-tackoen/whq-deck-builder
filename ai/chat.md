@@ -1,6 +1,6 @@
 [link to video](https://www.youtube.com/watch?v=oY9n9MlPHoo)
 
-[ ] - TODO
+[ ] - Set warhammer universe
 
 # Prompt
 
