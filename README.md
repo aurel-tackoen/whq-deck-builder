@@ -14,6 +14,7 @@
     - [ ] Warhammer Quest
 - [ ] Monsters
   - [ ] Add Sets
+    - [ ] Warhammer Quest Bestiary
     - [ ] Age of Sigmar
     - [ ] Soulbound
 - [ ] Loots
