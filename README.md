@@ -3,6 +3,8 @@
 - [x] Create the repository
 - [ ] Use chat gpt for ambiance and story
 - [ ] Figma Templates
+  - [ ] Mobile
+  - [ ] Tablet
 - [ ] General Logic
   - [ ] Shuffling
   - [ ] Drawing
