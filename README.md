@@ -1,7 +1,9 @@
 # ai-dungeon
 
 - [x] Create the repository
-- [ ] Use chat gpt for ambiance and story
+- [ ] Chat GPT integration
+  - [ ] Ambiance
+  - [ ] Story
 - [ ] Figma Templates
   - [ ] Mobile
   - [ ] Tablet
