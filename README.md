@@ -4,6 +4,7 @@
 - [ ] Chat GPT integration
   - [ ] Ambiance
   - [ ] Story
+  - [ ] Monsters ?
 - [ ] Figma Templates
   - [ ] Mobile
   - [ ] Tablet
