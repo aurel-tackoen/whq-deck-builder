@@ -1,6 +1,7 @@
 # ai-dungeon
 
 - [x] Create the repository
+- [x] Find time to code it !
 - [ ] Chat GPT integration
   - [ ] Ambiance
   - [ ] Story
