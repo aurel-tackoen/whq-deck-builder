@@ -23,6 +23,7 @@
     - [ ] Warhammer Quest Bestiary
     - [ ] Age of Sigmar
     - [ ] Soulbound
+  - [ ] Easily customized deck
 - [ ] Loots
   - [ ] Generator
 - [ ] Between Games
