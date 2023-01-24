@@ -24,6 +24,8 @@
     - [ ] Age of Sigmar
     - [ ] Soulbound
   - [ ] Easily customized deck
+- [ ] Events
+  - [ ] Generator
 - [ ] Loots
   - [ ] Generator
 - [ ] Between Games
