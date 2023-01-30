@@ -3,6 +3,7 @@
 - [x] Create the repository
 
 - [ ] Chat GPT integration
+  - [ ] API Acces
   - [ ] Ambiance
   - [ ] Story
   - [ ] Monsters ?
