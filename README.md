@@ -19,7 +19,8 @@
     - [ ] Custom List
     - [ ] Cursed City
     - [ ] Hero Quest
-    - [ ] Warhammer Quest
+    - [ ] Warhammer Quest by Level
+    - [ ] Named Monster
 - [ ] Monsters
   - [ ] Add Sets
     - [ ] Warhammer Quest Bestiary
