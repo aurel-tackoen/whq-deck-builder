@@ -1,4 +1,4 @@
-# ai-dungeon
+# Warhammer Quest - Deck Builder
 
 - [x] Create the repository
 
