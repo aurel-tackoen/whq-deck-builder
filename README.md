@@ -1,35 +1,35 @@
-# Warhammer Quest - Deck Builder
+# whq-deck-builder
 
-- [x] Create the repository
+This template should help get you started developing with Vue 3 in Vite.
 
-- [ ] Chat GPT integration
-  - [ ] API Access
-  - [ ] Ambiance
-  - [ ] Story
-  - [ ] Monsters ?
-- [ ] Figma Templates
-  - [ ] Mobile
-  - [ ] Tablet
-- [ ] General Logic
-  - [ ] Shuffling
-  - [ ] Drawing
-  - [ ] Card Generator
-- [ ] Dungeon Tiles
-  - [ ] Add Sets
-    - [ ] Custom List
-    - [ ] Cursed City
-    - [ ] Hero Quest
-    - [ ] Warhammer Quest by Level
-    - [ ] Named Monster
-- [ ] Monsters
-  - [ ] Add Sets
-    - [ ] Warhammer Quest Bestiary
-    - [ ] Age of Sigmar
-    - [ ] Soulbound
-  - [ ] Easily customized deck
-- [ ] Events
-  - [ ] Generator
-- [ ] Loots
-  - [ ] Generator
-- [ ] Between Games
- 
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
