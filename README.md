@@ -1,7 +1,7 @@
 # Warhammer Quest - Deck Builder
 
 - [x] Create the repository
-
+- [x] Gather basic ideas
 - [ ] Chat GPT integration
   - [ ] API Access
   - [ ] Ambiance
