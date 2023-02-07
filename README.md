@@ -2,6 +2,7 @@
 
 - [x] Create the repository
 - [x] Gather basic ideas
+- [x] Print basic books and tables
 - [ ] Chat GPT integration
   - [ ] API Access
   - [ ] Ambiance
