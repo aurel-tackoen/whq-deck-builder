@@ -4,6 +4,7 @@
 - [x] Gather basic ideas
 - [x] Print basic books and tables
 - [x] List minis and monsters
+- [x] List heroes
 - [ ] Chat GPT integration
   - [ ] API Access
   - [ ] Ambiance
