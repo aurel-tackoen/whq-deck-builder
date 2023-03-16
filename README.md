@@ -26,8 +26,8 @@
     - [ ] Named Monster
 - [ ] Monsters
   - [ ] Add Sets
-    - [ ] Warhammer Quest Bestiary
-    - [ ] Age of Sigmar
+    - [X] Warhammer Quest Bestiary
+    - [X] Age of Sigmar
     - [ ] Soulbound
   - [ ] Easily customized deck
 - [ ] Events
