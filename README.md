@@ -5,6 +5,7 @@
 - [x] Print basic books and tables
 - [x] List minis and monsters
 - [x] List heroes
+- [x] GPT4 working api
 - [ ] Create rule prompt
 - [ ] Chat GPT image input for board logic
 - [ ] Chat GPT integration
